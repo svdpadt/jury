@@ -33,3 +33,8 @@ Volledig opnieuw opgebouwde PWA. Publiceer alle bestanden samen via HTTPS, bijvo
 ## v1.5
 - Vasthoudtijd van BEVESTIG TIJD, EINDE SPEELTIJD / RUST en START NIEUWE WEDSTRIJD verkort naar 1 seconde.
 - Visuele VASTHOUDEN-indicatie en voortgangsbalk blijven behouden.
+
+## v1.6
+- Alle vasthoudacties verwijderd.
+- HERSTEL, BEVESTIG TIJD, EINDE SPEELTIJD / RUST en START NIEUWE WEDSTRIJD vereisen nu twee snelle tikken/klikken binnen 450 ms.
+- Na de eerste tik verschijnt KLIK NOGMAALS; zonder tweede tik vervalt de actie automatisch.
