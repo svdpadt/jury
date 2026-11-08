@@ -29,3 +29,7 @@ Volledig opnieuw opgebouwde PWA. Publiceer alle bestanden samen via HTTPS, bijvo
 ## v1.4
 - Berekende halkloktijd naast gele/rode kaartbolletjes verwijderd.
 - RUST-knop uit het hoofdscherm verwijderd. Rust blijft beschikbaar via EINDE SPEELTIJD / RUST en de einde-helftworkflow.
+
+## v1.5
+- Vasthoudtijd van BEVESTIG TIJD, EINDE SPEELTIJD / RUST en START NIEUWE WEDSTRIJD verkort naar 1 seconde.
+- Visuele VASTHOUDEN-indicatie en voortgangsbalk blijven behouden.
