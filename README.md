@@ -38,3 +38,15 @@ Volledig opnieuw opgebouwde PWA. Publiceer alle bestanden samen via HTTPS, bijvo
 - Alle vasthoudacties verwijderd.
 - HERSTEL, BEVESTIG TIJD, EINDE SPEELTIJD / RUST en START NIEUWE WEDSTRIJD vereisen nu twee snelle tikken/klikken binnen 450 ms.
 - Na de eerste tik verschijnt KLIK NOGMAALS; zonder tweede tik vervalt de actie automatisch.
+
+## v1.7
+- Bij einde 1e helft, rust, 2e helft en verlenging verschijnt een bevestigingspop-up met OK voor de volgende fase.
+- Verlengingsvragen en automatische 5-secondenkeuze zijn verwijderd.
+- Onder het log staat Verlenging mogelijk, standaard uit, met instelbare verlengingsduur standaard 5 minuten.
+- Na einde 2e helft start OK alleen een verlenging wanneer de selectie aanstaat; anders volgt de eindsamenvatting.
+
+## v1.8
+- Twee verlengingen met dezelfde instelbare duur.
+- Na de tweede verlenging start een strafworpenserie die vanaf de eerste ronde sudden death is.
+- Per ronde neemt elk team één strafworp; een afwijkende uitkomst in een complete ronde bepaalt direct de winnaar.
+- Samenvatting en CSV tonen verlengingen en strafworpen alleen wanneer deze daadwerkelijk hebben plaatsgevonden.
