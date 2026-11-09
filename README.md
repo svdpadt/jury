@@ -63,3 +63,9 @@ Volledig opnieuw opgebouwde PWA. Publiceer alle bestanden samen via HTTPS, bijvo
 - START NIEUWE WEDSTRIJD zet de wedstrijdduur altijd terug op 25 minuten.
 - Golden-goalbevestiging heeft nu een contrastrijke groene winnaar-knop en rode herstelknop.
 - Strafworpknoppen DOELPUNT en MIS hebben extra contrast en duidelijke groene/rode styling.
+
+## v1.9.2
+- Verlenging na de tweede helft start uitsluitend wanneer Verlenging mogelijk is aangevinkt én de stand gelijk is. Bij ongelijke stand eindigt de wedstrijd.
+- Tweede helft en beide verlengingen worden na de fasebevestiging alleen klaargezet; de klok staat stil tot START of spatie.
+- Rust staat standaard op 9 minuten en start direct na de bevestiging Einde eerste helft / Start rust.
+- Startmeldingen voor tweede helft en verlengingen worden pas gelogd wanneer de klok daadwerkelijk wordt gestart.
