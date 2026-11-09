@@ -1,7 +1,7 @@
 {
-  "name": "Korfbal Jurytafel",
-  "short_name": "Korfbal Jury",
-  "description": "Wedstrijdklok, score, time-outs, wissels en wedstrijdlog voor korfbal.",
+  "name": "Juryvoorzitter KNKV",
+  "short_name": "Juryvoorzitter",
+  "description": "Juryvoorzitter-app voor korfbalwedstrijden",
   "lang": "nl-NL",
   "start_url": "./index.html",
   "scope": "./",
