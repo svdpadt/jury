@@ -50,3 +50,11 @@ Volledig opnieuw opgebouwde PWA. Publiceer alle bestanden samen via HTTPS, bijvo
 - Na de tweede verlenging start een strafworpenserie die vanaf de eerste ronde sudden death is.
 - Per ronde neemt elk team één strafworp; een afwijkende uitkomst in een complete ronde bepaalt direct de winnaar.
 - Samenvatting en CSV tonen verlengingen en strafworpen alleen wanneer deze daadwerkelijk hebben plaatsgevonden.
+
+## v1.9
+- Na de eerste verlenging volgt alleen bij gelijke stand een tweede verlenging.
+- In de tweede verlenging beëindigt het eerste doelpunt de klok als golden goal, na bevestiging van het winnende team.
+- Bij afwijzen van de golden-goalbevestiging wordt het doelpunt hersteld en loopt de tweede verlenging verder.
+- Als de tweede verlenging zonder golden goal gelijk eindigt, start de sudden-death strafworpenserie.
+- Strafworpknoppen heten DOELPUNT (groen) en MIS (rood).
+- Samenvatting en CSV vermelden golden goal alleen wanneer deze heeft plaatsgevonden.
