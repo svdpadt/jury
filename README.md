@@ -72,3 +72,24 @@ Nieuwe opbouw met verplichte beginopstelling en reserves per team. Upload alle b
 - Als de wedstrijdklok stilstaat en de juryvoorzitter de tijd met **+/- seconden** corrigeert, wordt een gele kaart die op dat stilstaande tijdstip is gegeven automatisch naar dezelfde gecorrigeerde verstreken tijd verplaatst.
 - De correctie wordt zowel in de kaartweergave als in het wedstrijdlog en de CSV-export bijgewerkt.
 - Andere, eerder gegeven gele kaarten blijven ongewijzigd.
+
+
+## Versie 2.14
+
+- Bij een gele of rode kaart wordt nu de **tijd van de grote aftellende wedstrijdklok** opgeslagen en weergegeven, niet de verstreken tijd.
+- Als de klok stilstaat en met **+/- seconden** wordt gecorrigeerd, wordt deze kloktijd van een zojuist gegeven kaart mee gecorrigeerd.
+- De tijdelijke kaartregel toont de resterende kaarttijd en de kloktijd waarop de kaart is gegeven.
+- Zodra de kaarttimer is afgelopen, verdwijnt de tijdelijke tekst en blijft alleen het **gele of rode bolletje** staan.
+
+
+## Versie 2.15
+
+- Als de grote wedstrijdklok tijdens stilstand met **+/- seconden** wordt gecorrigeerd, wordt dezelfde effectieve correctie toegepast op alle nog lopende kaarttijden.
+- De kaarttijd kan niet onder **00:00** komen. Zodra de kaarttijd nul is, verdwijnt de tijdelijke kaarttekst en blijft alleen het gele of rode bolletje staan.
+- De opgeslagen kloktijd waarop de kaart is gegeven blijft eveneens gekoppeld aan de correctie van de grote klok.
+
+
+## Versie 2.16
+
+- De knop **EINDE SPEELTIJD / RUST (2×)** is verkort naar **EINDE TIJD (2×)** zodat de tekst ook op smallere iPhone-schermen netjes binnen het kader blijft.
+- De werking van de dubbele bevestiging en de logica voor einde speeltijd/einde rust zijn niet gewijzigd.
