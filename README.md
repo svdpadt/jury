@@ -185,3 +185,19 @@ Nieuwe opbouw met verplichte beginopstelling en reserves per team. Upload alle b
 - **Pijltje rechts**: +1 doelpunt uit.
 - De pijltjestoetsen hebben verder geen functie en bedienen de tijd niet.
 - De spatiebalk blijft uitsluitend START/STOP van de tijd uitvoeren en kan de laatst gebruikte scoreknop niet opnieuw activeren.
+
+
+## Versie 2.28
+
+- De berekende tijd van een **gele kaart wordt definitief vastgezet op het moment dat de kaart wordt geregistreerd**.
+- Uitgangspunt is de stand van de grote wedstrijdklok op dat registratiemoment; daarvan wordt de bestaande 4-minutenberekening gemaakt.
+- Latere handmatige correcties van de grote klok met **+/- seconden wijzigen een reeds geregistreerde gele kaart niet meer**.
+- Score-, rust-, kaartmelding-, spatie- en pijltjestoetsfuncties blijven verder ongewijzigd.
+
+
+## Versie 2.29
+
+- Zodra de grote klok **gelijk aan of lager dan** de vastgezette tijd van een gele kaart komt, verschijnt de pop-up **Kaarttijd verstreken**.
+- Ook een handmatige correctie van de grote klok naar een tijd onder de kaarttijd activeert deze melding.
+- De vastgezette gele-kaarttijd zelf verandert niet door een handmatige klokcorrectie.
+- De melding stopt de wedstrijdklok en andere wedstrijdfunctionaliteit niet.
