@@ -201,3 +201,11 @@ Nieuwe opbouw met verplichte beginopstelling en reserves per team. Upload alle b
 - Ook een handmatige correctie van de grote klok naar een tijd onder de kaarttijd activeert deze melding.
 - De vastgezette gele-kaarttijd zelf verandert niet door een handmatige klokcorrectie.
 - De melding stopt de wedstrijdklok en andere wedstrijdfunctionaliteit niet.
+
+
+## Versie 2.30
+
+- Het kaartvenster toont nu groot de **tijd van de grote wedstrijdklok op het moment dat KAART wordt ingedrukt**.
+- In het kaartvenster kan deze tijd vóór bevestiging worden gecorrigeerd met **-10, -1, +1 en +10 seconden** om gelijk te zetten met de zaalklok.
+- De gele-kaartberekening gebruikt uitsluitend deze gecontroleerde kaarttijd.
+- Zodra de gele kaart is bevestigd, staat de berekende kaarttijd definitief vast en wijzigen latere +/- correcties van de wedstrijdklok deze niet meer.
