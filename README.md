@@ -168,3 +168,20 @@ Nieuwe opbouw met verplichte beginopstelling en reserves per team. Upload alle b
 - Zowel `keydown` als `keyup` van de spatiebalk blokkeren de standaard browseractie.
 - De spatiebalk voert uitsluitend de bestaande **START/STOP**-functie van de wedstrijdtijd of rusttijd uit.
 - Pijltje links en rechts blijven uitsluitend +1 doelpunt geven aan respectievelijk thuis en uit.
+
+
+## Versie 2.26
+
+- Alleen de **spatiebalk** heeft nog een toetsenbordfunctie.
+- De spatiebalk doet uitsluitend **START/STOP** van de wedstrijdtijd of rusttijd.
+- Alle functies van de pijltjestoetsen zijn verwijderd, inclusief score thuis/uit.
+- De spatiebalk haalt toetsenbordfocus van de laatst gebruikte knop en blokkeert de standaard browseractie, zodat geen eerdere knopactie opnieuw kan worden uitgevoerd.
+- De rechtermuisknop blijft als aparte muisbediening de bestaande START/STOP-functie behouden.
+
+
+## Versie 2.27
+
+- **Pijltje links**: +1 doelpunt thuis.
+- **Pijltje rechts**: +1 doelpunt uit.
+- De pijltjestoetsen hebben verder geen functie en bedienen de tijd niet.
+- De spatiebalk blijft uitsluitend START/STOP van de tijd uitvoeren en kan de laatst gebruikte scoreknop niet opnieuw activeren.
