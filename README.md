@@ -110,3 +110,14 @@ Nieuwe opbouw met verplichte beginopstelling en reserves per team. Upload alle b
 - Bij **handmatig einde rust** wordt de hoofdwedstrijdklok expliciet gestopt en blijft de tweede helft op de ingestelde speeltijd klaarstaan.
 - De tweede helft begint pas wanneer de juryvoorzitter daarna bewust op **START** drukt.
 - Afstandsbediening/toetsbediening wordt geblokkeerd zolang de melding **Einde rust** openstaat, zodat een bevestigingshandeling niet onbedoeld de tweede helft kan starten.
+
+
+## Versie 2.19
+
+- Windows-laptopweergave toegevoegd vanaf **1025 px** schermbreedte.
+- Geoptimaliseerd voor veelgebruikte laptopresoluties zoals **1366×768**, **1536×864** en **1920×1080**.
+- De middenkolom met wedstrijdklok krijgt op Windows meer ruimte, terwijl beide teampanelen zichtbaar blijven.
+- Op schermen tot **800 px hoogte** worden klok, score, knoppen en marges compacter zodat de wedstrijdbediening beter in één scherm past.
+- Op Full HD en grotere schermen wordt de beschikbare breedte juist ruimer gebruikt.
+- Modals krijgen op desktop een maximale breedte en hoogte met interne scrolling, zodat wissels en opstellingen niet buiten het scherm vallen.
+- De bestaande iPhone- en iPad-mediaqueries blijven behouden.
