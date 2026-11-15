@@ -25,3 +25,8 @@ Nieuwe opbouw met verplichte beginopstelling en reserves per team. Upload alle b
 - Beginopstelling standaard geslacht: V, V, M, M, V, V, M, M voor beide teams.
 - Subtiele scheidingslijn tussen de bovenste vier (aanval) en onderste vier (verdediging).
 - Reserves beginnen standaard met een vrouw en een man per team.
+
+## v2.4
+- START ZONDER OPSTELLING toegevoegd.
+- In deze modus werkt de app zoals de oude versie: de wedstrijd kan direct starten en wissels worden met rugnummer UIT/IN geregistreerd.
+- Via OPSTELLING BEHEREN kan later alsnog een volledige beginopstelling worden ingevoerd.
