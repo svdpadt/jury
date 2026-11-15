@@ -42,3 +42,26 @@ Nieuwe opbouw met verplichte beginopstelling en reserves per team. Upload alle b
 ## Versie 2.9
 
 - De verstreken tijd van de tweede helft begint op de ingestelde speelduur van de eerste helft. Bij de standaardinstelling begint de tweede helft dus op **25:00** verstreken tijd.
+
+
+## Versie 2.10
+
+- Tijdens de rust beëindigt **EINDE SPEELTIJD / RUST** nu daadwerkelijk de rust.
+- De hoofdknop schakelt tijdens de rust tussen **STOP RUST** en **START RUST**.
+- De secondenknoppen wijzigen tijdens de rust de resterende rusttijd in plaats van de speeltijd.
+- De tweede helft behoudt de doorlopende verstreken tijd uit versie 2.9.
+
+
+## Versie 2.11
+
+- Als de wedstrijdtijd na **5 seconden** nog niet is gestart, gaat de grote klok knipperen als herinnering.
+- Zodra **START** wordt ingedrukt stopt het knipperen direct.
+- Na het stoppen van de speeltijd begint opnieuw een wachttijd van 5 seconden.
+- Tijdens de rust blijft de rustbediening uit versie 2.10 actief en wordt deze waarschuwing niet gebruikt.
+
+
+## Versie 2.12
+
+- Bij een **gele kaart** wordt de verstreken wedstrijdtijd op het moment van geven opgeslagen.
+- De kaartweergave toont naast de straftijd ook **gegeven mm:ss**.
+- In het wedstrijdlog en daardoor ook in de CSV-export staat de verstreken tijd bij de gele kaart.
