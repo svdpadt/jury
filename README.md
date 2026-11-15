@@ -30,3 +30,15 @@ Nieuwe opbouw met verplichte beginopstelling en reserves per team. Upload alle b
 - START ZONDER OPSTELLING toegevoegd.
 - In deze modus werkt de app zoals de oude versie: de wedstrijd kan direct starten en wissels worden met rugnummer UIT/IN geregistreerd.
 - Via OPSTELLING BEHEREN kan later alsnog een volledige beginopstelling worden ingevoerd.
+
+
+## Versie 2.8
+
+- **EINDE SPEELTIJD / RUST** behoudt bij de bevestigingsklik dezelfde breedte en positie.
+- Zonder opstelling toont het wisselscherm alleen **Rugnummer UIT** en **Rugnummer IN**.
+- Met opstelling worden alleen reserves met hetzelfde geslacht als de geselecteerde veldspeler getoond.
+
+
+## Versie 2.9
+
+- De verstreken tijd van de tweede helft begint op de ingestelde speelduur van de eerste helft. Bij de standaardinstelling begint de tweede helft dus op **25:00** verstreken tijd.
