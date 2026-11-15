@@ -93,3 +93,13 @@ Nieuwe opbouw met verplichte beginopstelling en reserves per team. Upload alle b
 
 - De knop **EINDE SPEELTIJD / RUST (2×)** is verkort naar **EINDE TIJD (2×)** zodat de tekst ook op smallere iPhone-schermen netjes binnen het kader blijft.
 - De werking van de dubbele bevestiging en de logica voor einde speeltijd/einde rust zijn niet gewijzigd.
+
+
+## Versie 2.17
+
+- De lopende 4-minutenklok van een gele kaart is verwijderd.
+- Bij een gele kaart wordt een vast vervaltijdstip getoond: **tijd grote klok minus 4 minuten**.
+- Bij minder dan 4 minuten resterend in de eerste helft loopt de berekening door naar de tweede helft. Voorbeeld: kaart bij 02:00 in de eerste helft vervalt bij 23:00 in de tweede helft bij een speelduur van 25 minuten.
+- Een gele kaart in de laatste 4 minuten van de tweede helft krijgt vervaltijd **00:00**.
+- Zodra de grote klok het berekende tijdstip bereikt, verschijnt een pop-up. De wedstrijdklok en overige functies blijven doorlopen.
+- Na het verstrijken verdwijnt de tijdtekst en blijft het gele bolletje staan.
