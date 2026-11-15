@@ -121,3 +121,28 @@ Nieuwe opbouw met verplichte beginopstelling en reserves per team. Upload alle b
 - Op Full HD en grotere schermen wordt de beschikbare breedte juist ruimer gebruikt.
 - Modals krijgen op desktop een maximale breedte en hoogte met interne scrolling, zodat wissels en opstellingen niet buiten het scherm vallen.
 - De bestaande iPhone- en iPad-mediaqueries blijven behouden.
+
+
+## Versie 2.20
+
+- De **spatiebalk** start alleen nog de wedstrijdtijd als deze stilstaat. Een tweede druk stopt de klok niet meer.
+- De **rechtermuisknop** start alleen nog de wedstrijdtijd als deze stilstaat. Een volgende rechtermuisklik stopt de klok niet meer.
+- De eerdere bediening met de **pijltjestoetsen** is verwijderd, zodat een vorige/laatste afstandsbedieningshandeling niet opnieuw als start/stop-actie wordt gebruikt.
+- Tijdens de rust starten spatiebalk en rechtermuisknop de wedstrijdtijd niet; de rustbediening blijft via de vaste knoppen lopen.
+
+
+## Versie 2.21
+
+- De **spatiebalk** gebruikt nu dezelfde tijdsbediening als de rechtermuisknop: bij stilstaande tijd wordt gestart en bij lopende tijd wordt gestopt.
+- De **rechtermuisknop** blijft dezelfde start/stop-bediening gebruiken.
+- Tijdens de rust gebruiken spatiebalk en rechtermuisknop dezelfde rustbediening: rust starten of stoppen.
+- De pijltjestoetsen blijven uitgeschakeld voor de tijdsbediening.
+
+
+## Versie 2.22
+
+- **Pijltjestoets links** telt precies **1 doelpunt** op bij de thuispartij.
+- **Pijltjestoets rechts** telt precies **1 doelpunt** op bij de uitpartij.
+- De pijltjestoetsen omhoog en omlaag hebben geen functie.
+- Links/rechts starten of stoppen de wedstrijdklok niet en voeren geen andere actie uit.
+- De spatiebalk en rechtermuisknop behouden hun bestaande start/stop-bediening.
