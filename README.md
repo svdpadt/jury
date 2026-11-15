@@ -65,3 +65,10 @@ Nieuwe opbouw met verplichte beginopstelling en reserves per team. Upload alle b
 - Bij een **gele kaart** wordt de verstreken wedstrijdtijd op het moment van geven opgeslagen.
 - De kaartweergave toont naast de straftijd ook **gegeven mm:ss**.
 - In het wedstrijdlog en daardoor ook in de CSV-export staat de verstreken tijd bij de gele kaart.
+
+
+## Versie 2.13
+
+- Als de wedstrijdklok stilstaat en de juryvoorzitter de tijd met **+/- seconden** corrigeert, wordt een gele kaart die op dat stilstaande tijdstip is gegeven automatisch naar dezelfde gecorrigeerde verstreken tijd verplaatst.
+- De correctie wordt zowel in de kaartweergave als in het wedstrijdlog en de CSV-export bijgewerkt.
+- Andere, eerder gegeven gele kaarten blijven ongewijzigd.
