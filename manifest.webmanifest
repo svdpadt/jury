@@ -1,9 +1,11 @@
 {
   "name": "Juryvoorzitter KNKV",
-  "short_name": "Juryvoorzitter",
-  "start_url": "./",
+  "short_name": "KNKV",
+  "description": "Juryvoorzitter-app voor wedstrijdregistratie",
+  "lang": "nl-NL",
+  "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
-  "orientation": "landscape",
   "background_color": "#0b1220",
   "theme_color": "#111827",
   "icons": [
