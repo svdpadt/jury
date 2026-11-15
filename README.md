@@ -15,3 +15,13 @@ Nieuwe opbouw met verplichte beginopstelling en reserves per team. Upload alle b
 - iPhone-weergave met compacte kernbediening.
 - Tablet/iPad-weergave met grotere touchknoppen.
 - Time-out groen, wissel oranje, kaart geel.
+
+## v2.2
+- RESET WEDSTRIJD toegevoegd met dubbele tik.
+- Reset wist score, log, wissels, time-outs, kaarten, timers, rust/verlenging en wedstrijdstatus.
+- Teamnamen, bevestigde spelersopstelling, speelduur, rustduur en verlengingsinstellingen blijven behouden.
+
+## v2.3
+- Beginopstelling standaard geslacht: V, V, M, M, V, V, M, M voor beide teams.
+- Subtiele scheidingslijn tussen de bovenste vier (aanval) en onderste vier (verdediging).
+- Reserves beginnen standaard met een vrouw en een man per team.
