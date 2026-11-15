@@ -159,3 +159,12 @@ Nieuwe opbouw met verplichte beginopstelling en reserves per team. Upload alle b
 
 - De selectie-/focuscirkel rond de laatst gebruikte knop is verwijderd.
 - Invoer- en selectievelden houden wel hun focusmarkering, zodat zichtbaar blijft welk veld actief is.
+
+
+## Versie 2.25
+
+- De **spatiebalk** wordt vóór de normale browser-/knopbediening afgehandeld.
+- De laatst gefocuste knop wordt bij gebruik van de spatiebalk eerst losgelaten (`blur`), zodat de spatie niet opnieuw de laatst gebruikte knop activeert.
+- Zowel `keydown` als `keyup` van de spatiebalk blokkeren de standaard browseractie.
+- De spatiebalk voert uitsluitend de bestaande **START/STOP**-functie van de wedstrijdtijd of rusttijd uit.
+- Pijltje links en rechts blijven uitsluitend +1 doelpunt geven aan respectievelijk thuis en uit.
