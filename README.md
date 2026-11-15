@@ -103,3 +103,10 @@ Nieuwe opbouw met verplichte beginopstelling en reserves per team. Upload alle b
 - Een gele kaart in de laatste 4 minuten van de tweede helft krijgt vervaltijd **00:00**.
 - Zodra de grote klok het berekende tijdstip bereikt, verschijnt een pop-up. De wedstrijdklok en overige functies blijven doorlopen.
 - Na het verstrijken verdwijnt de tijdtekst en blijft het gele bolletje staan.
+
+
+## Versie 2.18
+
+- Bij **handmatig einde rust** wordt de hoofdwedstrijdklok expliciet gestopt en blijft de tweede helft op de ingestelde speeltijd klaarstaan.
+- De tweede helft begint pas wanneer de juryvoorzitter daarna bewust op **START** drukt.
+- Afstandsbediening/toetsbediening wordt geblokkeerd zolang de melding **Einde rust** openstaat, zodat een bevestigingshandeling niet onbedoeld de tweede helft kan starten.
