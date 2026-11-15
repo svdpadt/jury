@@ -146,3 +146,10 @@ Nieuwe opbouw met verplichte beginopstelling en reserves per team. Upload alle b
 - De pijltjestoetsen omhoog en omlaag hebben geen functie.
 - Links/rechts starten of stoppen de wedstrijdklok niet en voeren geen andere actie uit.
 - De spatiebalk en rechtermuisknop behouden hun bestaande start/stop-bediening.
+
+
+## Versie 2.23
+
+- Bij een **rode kaart** wordt geen tijd meer weergegeven naast het rode bolletje.
+- Het rode bolletje en de registratie van de rode kaart blijven behouden.
+- De berekende tijdweergave en melding voor gele kaarten blijven ongewijzigd.
