@@ -153,3 +153,9 @@ Nieuwe opbouw met verplichte beginopstelling en reserves per team. Upload alle b
 - Bij een **rode kaart** wordt geen tijd meer weergegeven naast het rode bolletje.
 - Het rode bolletje en de registratie van de rode kaart blijven behouden.
 - De berekende tijdweergave en melding voor gele kaarten blijven ongewijzigd.
+
+
+## Versie 2.24
+
+- De selectie-/focuscirkel rond de laatst gebruikte knop is verwijderd.
+- Invoer- en selectievelden houden wel hun focusmarkering, zodat zichtbaar blijft welk veld actief is.
